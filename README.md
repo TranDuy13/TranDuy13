@@ -55,7 +55,7 @@
 ![IIS](https://img.shields.io/badge/IIS-0078D6?style=flat&logo=windows&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
-
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 ---
 
 ## 🚀 What I'm Good At
